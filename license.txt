@@ -1,0 +1,8 @@
+Model Information:
+* title:	Alien
+* source:	https://sketchfab.com/3d-models/alien-10894e5b6e684d08a821cb2c1a30f40a
+* author:	bossdeff (https://sketchfab.com/bossdeff)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
